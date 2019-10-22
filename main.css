@@ -237,7 +237,7 @@ h2{
 
 .scratch{
     position: absolute;
-    transform: translate(450%, -400%);
+    transform: translate(200%, -200%);
     top: 200%;
     left: 40%;
     bottom: -200%;
