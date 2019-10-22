@@ -234,3 +234,9 @@ h2{
     transform: translate(165%, -5%);
     width: 25%;
 }
+
+.scratch{
+    position: absolute;
+    transform: translate(200%, -100%);
+    width: 30%;
+}
