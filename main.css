@@ -239,7 +239,7 @@ h2{
     position: absolute;
     transform: translate(450%, -400%);
     top: 300%;
-    left: 350%;
-    bottom: -600%;
+    left: 100%;
+    bottom: -300%;
     
 }
